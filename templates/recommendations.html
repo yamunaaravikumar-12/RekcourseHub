@@ -69,12 +69,19 @@
         .form-group label { font-size: 0.85rem; color: #94a3b8; font-weight: 500; }
         .form-group select {
             padding: 12px 14px;
-            background: rgba(255,255,255,0.07);
-            border: 1px solid rgba(255,255,255,0.12);
+            background: rgba(255,255,255,0.12);
+            border: 1px solid rgba(255,255,255,0.18);
             border-radius: 8px;
             color: #e2e8f0;
             font-size: 0.95rem;
             outline: none;
+            appearance: none;
+            -webkit-appearance: none;
+            -moz-appearance: none;
+        }
+        .form-group select option {
+            color: #0f172a;
+            background: #f8fafc;
         }
         .form-group select:focus { border-color: #7c3aed; }
         .checkbox-row {
@@ -180,13 +187,15 @@
             <form method="POST" action="/recommendations">
                 <div class="form-row">
                     <div class="form-group">
-                        <label for="category">Category / Topic</label>
+                        <label for="category">Platform</label>
                         <select name="category" id="category">
-                            <option value="">All Categories</option>
-                            <option value="web"  {% if filters.category == 'web'  %}selected{% endif %}>Web Development</option>
-                            <option value="data" {% if filters.category == 'data' %}selected{% endif %}>Data Science</option>
-                            <option value="ml"   {% if filters.category == 'ml'   %}selected{% endif %}>Machine Learning / AI</option>
-                            <option value="cloud"{% if filters.category == 'cloud'%}selected{% endif %}>Cloud Computing</option>
+                            <option value="">All Platforms</option>
+                            <option value="Udemy" {% if filters.category == 'Udemy' %}selected{% endif %}>Udemy</option>
+                            <option value="YouTube" {% if filters.category == 'YouTube' %}selected{% endif %}>YouTube</option>
+                            <option value="GeeksforGeeks" {% if filters.category == 'GeeksforGeeks' %}selected{% endif %}>GeeksforGeeks</option>
+                            <option value="Coursera" {% if filters.category == 'Coursera' %}selected{% endif %}>Coursera</option>
+                            <option value="NPTEL" {% if filters.category == 'NPTEL' %}selected{% endif %}>NPTEL</option>
+                            <option value="Microsoft Learn" {% if filters.category == 'Microsoft Learn' %}selected{% endif %}>Microsoft Learn</option>
                         </select>
                     </div>
                     <div class="form-group">
