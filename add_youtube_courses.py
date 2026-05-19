@@ -15,7 +15,7 @@ courses = [
         'title': 'Web Development Full Course — Thetips4you',
         'platform': 'YouTube',
         'link': 'https://www.youtube.com/watch?v=6Xj-o-HiUFQ',
-        'duration': '10 Hours',
+        'duration': '10–15h',
         'icon': '🌐',
         'tags': 'web development free'
     },
@@ -23,7 +23,7 @@ courses = [
         'title': 'Full Stack Web Development — WsCube Tech',
         'platform': 'YouTube',
         'link': 'https://www.youtube.com/watch?v=HVjjoMvutj4',
-        'duration': '28 Hours',
+        'duration': '20–30h',
         'icon': '💻',
         'tags': 'full stack web development free'
     },
@@ -31,7 +31,7 @@ courses = [
         'title': 'Frontend Development Complete Course — Great Learning',
         'platform': 'YouTube',
         'link': 'https://www.youtube.com/watch?v=zJSY8tbf_ys',
-        'duration': '43+ Hours',
+        'duration': '8–10h',
         'icon': '🎨',
         'tags': 'frontend development free'
     },
@@ -39,7 +39,7 @@ courses = [
         'title': 'Web Development Full Course — Bro Code',
         'platform': 'YouTube',
         'link': 'https://www.youtube.com/watch?v=HD13eq_Pmp8',
-        'duration': '28+ Hours',
+        'duration': '20h',
         'icon': '🚀',
         'tags': 'web development free'
     },
@@ -47,7 +47,7 @@ courses = [
         'title': 'React JS Full Course — freeCodeCamp',
         'platform': 'YouTube',
         'link': 'https://www.youtube.com/watch?v=bMknfKXIFA8',
-        'duration': '12 Hours',
+        'duration': '12h',
         'icon': '⚛️',
         'tags': 'react web development free'
     },
@@ -55,7 +55,7 @@ courses = [
         'title': 'MERN Stack Full Course — Simplilearn',
         'platform': 'YouTube',
         'link': 'https://www.youtube.com/watch?v=7CqJlxBYj-M',
-        'duration': '11 Hours',
+        'duration': '11–12h',
         'icon': '🔥',
         'tags': 'mern stack web development free'
     },
@@ -63,7 +63,7 @@ courses = [
         'title': 'HTML & CSS Complete Course — SuperSimpleDev',
         'platform': 'YouTube',
         'link': 'https://www.youtube.com/watch?v=G3e-cpL7ofc',
-        'duration': '6 Hours',
+        'duration': '6h',
         'icon': '📚',
         'tags': 'html css web development free'
     },
@@ -71,7 +71,7 @@ courses = [
         'title': 'JavaScript Full Course — Bro Code',
         'platform': 'YouTube',
         'link': 'https://www.youtube.com/watch?v=lfmg-EJ8gm4',
-        'duration': '12 Hours',
+        'duration': '12h',
         'icon': '🟨',
         'tags': 'javascript web development free'
     }

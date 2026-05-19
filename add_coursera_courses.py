@@ -19,9 +19,10 @@ courses = [
         'icon': '🖥️',
         'tags': 'it support professional certificate',
         'badge_type': 'Paid',
-        'has_cert': 1
+        'has_cert': 1,
+        'duration': '6 months'
     },
-    
+
     # Finance
     {
         'title': 'Financial Markets — Yale University',
@@ -30,7 +31,8 @@ courses = [
         'icon': '📈',
         'tags': 'finance financial markets yale',
         'badge_type': 'Paid',
-        'has_cert': 1
+        'has_cert': 1,
+        'duration': '33h'
     },
     {
         'title': 'Introduction to Corporate Finance — Wharton',
@@ -39,7 +41,8 @@ courses = [
         'icon': '💹',
         'tags': 'finance corporate finance wharton',
         'badge_type': 'Paid',
-        'has_cert': 1
+        'has_cert': 1,
+        'duration': '13h'
     },
     {
         'title': 'Financial Accounting — University of Pennsylvania',
@@ -48,7 +51,8 @@ courses = [
         'icon': '🧾',
         'tags': 'finance accounting pennsylvania',
         'badge_type': 'Paid',
-        'has_cert': 1
+        'has_cert': 1,
+        'duration': '14h'
     },
     {
         'title': 'Investment Management Specialization — Geneva',
@@ -57,7 +61,8 @@ courses = [
         'icon': '💰',
         'tags': 'finance investment management',
         'badge_type': 'Paid',
-        'has_cert': 1
+        'has_cert': 1,
+        'duration': '4 months'
     },
     {
         'title': 'FinTech: Finance Industry Transformation — HKU',
@@ -66,9 +71,10 @@ courses = [
         'icon': '💳',
         'tags': 'finance fintech transformation',
         'badge_type': 'Paid',
-        'has_cert': 1
+        'has_cert': 1,
+        'duration': '22h'
     },
-    
+
     # Business
     {
         'title': 'Google Project Management Professional Certificate',
@@ -77,7 +83,8 @@ courses = [
         'icon': '📋',
         'tags': 'business management project management',
         'badge_type': 'Paid',
-        'has_cert': 1
+        'has_cert': 1,
+        'duration': '6 months'
     },
     {
         'title': 'Business Foundations Specialization — Wharton',
@@ -86,7 +93,8 @@ courses = [
         'icon': '🏢',
         'tags': 'business management wharton foundations',
         'badge_type': 'Paid',
-        'has_cert': 1
+        'has_cert': 1,
+        'duration': '5 months'
     },
     {
         'title': 'Digital Marketing Specialization — Univ. of Illinois',
@@ -95,7 +103,8 @@ courses = [
         'icon': '📣',
         'tags': 'business marketing digital',
         'badge_type': 'Paid',
-        'has_cert': 1
+        'has_cert': 1,
+        'duration': '8 months'
     },
     {
         'title': 'Leadership and Management — Macquarie University',
@@ -104,7 +113,8 @@ courses = [
         'icon': '👔',
         'tags': 'business management leadership',
         'badge_type': 'Paid',
-        'has_cert': 1
+        'has_cert': 1,
+        'duration': '3–4 months'
     },
     {
         'title': 'Entrepreneurship Specialization — Wharton',
@@ -113,9 +123,10 @@ courses = [
         'icon': '🚀',
         'tags': 'business entrepreneurship wharton',
         'badge_type': 'Paid',
-        'has_cert': 1
+        'has_cert': 1,
+        'duration': '4 months'
     },
-    
+
     # Psychology
     {
         'title': 'The Science of Well-Being — Yale University',
@@ -124,7 +135,8 @@ courses = [
         'icon': '🧘',
         'tags': 'psychology well-being science',
         'badge_type': 'Free',
-        'has_cert': 1
+        'has_cert': 1,
+        'duration': '19h'
     },
     {
         'title': 'Introduction to Psychology — Yale University',
@@ -133,7 +145,8 @@ courses = [
         'icon': '🧠',
         'tags': 'psychology yale introduction',
         'badge_type': 'Paid',
-        'has_cert': 1
+        'has_cert': 1,
+        'duration': '25h'
     },
     {
         'title': 'Psychological First Aid — Johns Hopkins',
@@ -142,7 +155,8 @@ courses = [
         'icon': '💚',
         'tags': 'psychology first aid johns hopkins',
         'badge_type': 'Free',
-        'has_cert': 1
+        'has_cert': 1,
+        'duration': '6h'
     },
     {
         'title': 'Positive Psychology Specialization — Penn',
@@ -151,7 +165,8 @@ courses = [
         'icon': '😊',
         'tags': 'psychology positive penn',
         'badge_type': 'Paid',
-        'has_cert': 1
+        'has_cert': 1,
+        'duration': '5 months'
     },
     {
         'title': 'Everyday Psychology — Duke University',
@@ -160,9 +175,10 @@ courses = [
         'icon': '🌱',
         'tags': 'psychology duke everyday',
         'badge_type': 'Paid',
-        'has_cert': 1
+        'has_cert': 1,
+        'duration': '15–20h'
     },
-    
+
     # Design
     {
         'title': 'Google UX Design Professional Certificate',
@@ -171,7 +187,8 @@ courses = [
         'icon': '🎨',
         'tags': 'design ux ui google',
         'badge_type': 'Paid',
-        'has_cert': 1
+        'has_cert': 1,
+        'duration': '6 months'
     },
     {
         'title': 'Graphic Design Specialization — CalArts',
@@ -180,7 +197,8 @@ courses = [
         'icon': '🖌️',
         'tags': 'design graphic calarts',
         'badge_type': 'Paid',
-        'has_cert': 1
+        'has_cert': 1,
+        'duration': '6 months'
     },
     {
         'title': 'UI / UX Design Specialization — Michigan',
@@ -189,7 +207,8 @@ courses = [
         'icon': '🖥️',
         'tags': 'design ux ui michigan',
         'badge_type': 'Paid',
-        'has_cert': 1
+        'has_cert': 1,
+        'duration': '4–5 months'
     },
     {
         'title': 'Interaction Design Specialization — UC San Diego',
@@ -198,7 +217,8 @@ courses = [
         'icon': '🖱️',
         'tags': 'design interaction ux',
         'badge_type': 'Paid',
-        'has_cert': 1
+        'has_cert': 1,
+        'duration': '8 months'
     },
     {
         'title': 'Visual Elements of UI Design — CalArts',
@@ -207,7 +227,8 @@ courses = [
         'icon': '✏️',
         'tags': 'design ui visual elements',
         'badge_type': 'Paid',
-        'has_cert': 1
+        'has_cert': 1,
+        'duration': '13h'
     }
 ]
 
@@ -222,7 +243,7 @@ try:
     
     for course in courses:
         cursor.execute(
-            "INSERT INTO courses (title, platform, link, icon, tags, badge_type, has_cert) VALUES (%s, %s, %s, %s, %s, %s, %s)",
+            "INSERT INTO courses (title, platform, link, icon, tags, badge_type, has_cert, duration) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)",
             (
                 course['title'],
                 course['platform'],
@@ -230,7 +251,8 @@ try:
                 course['icon'],
                 course['tags'],
                 course['badge_type'],
-                course['has_cert']
+                course['has_cert'],
+                course['duration']
             )
         )
     
